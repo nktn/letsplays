@@ -4,7 +4,7 @@ letsplays
 Overview
 
 ## Description
-This is an sample to get itunesRSS(game category) and to display tablelist.  
+This is a sample to get itunesRSS(game category) and to display tablelist.  
 I created this in order to study Rxswift.  
 
 ## Requirement
